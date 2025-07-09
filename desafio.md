@@ -1,3 +1,5 @@
+https://preview--group-shuffle-generator.lovable.app/
+
 ## 🚀 **DESAFIO 1: Calculadora de Notas da Escola**
 
 ### O que você vai fazer?
