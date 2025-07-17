@@ -2,53 +2,59 @@
 
 ---
 
-## 📖 Capítulo 1: Introdução ao Mundo da Programação
+## 📖 Introdução ao Mundo da Programação
 
 ### 🤔 O que é Programação?
 
 Programação é como **escrever uma receita de bolo para o computador**. Você precisa dar instruções claras, precisas e na ordem certa para que ele execute exatamente o que você quer.
 
 **Exemplo simples:**
+
 - **Para fazer um bolo:** "Misture a farinha, adicione ovos, asse por 30 minutos"
 - **Para programar:** "Leia um número, some com 5, mostre o resultado"
 
 ### 📊 Linguagens de Alto e Baixo Nível
 
 #### 🔻 Linguagens de Baixo Nível
+
 - **Mais próximas do hardware**
 - **Mais difíceis de aprender**
 - **Maior controle sobre o sistema**
 - **Exemplos:** Assembly, linguagem de máquina
 
 #### 🔺 Linguagens de Alto Nível
+
 - **Mais próximas da linguagem humana**
 - **Mais fáceis de aprender**
 - **Menos controle direto do hardware**
 - **Exemplos:** Python, JavaScript, Java
 
 #### ⚖️ C++ - O Melhor dos Dois Mundos
+
 C++ é uma linguagem **híbrida** que combina:
+
 - ✅ **Facilidade** de linguagens de alto nível
 - ✅ **Performance** de linguagens de baixo nível
 - ✅ **Controle** total sobre o sistema quando necessário
 
 ---
 
-## 🎯 Capítulo 2: Por que Escolher C++?
+## 🎯 Por que Escolher C++?
 
 ### 💪 Vantagens do C++
 
-| Vantagem | Descrição | Impacto |
-|----------|-----------|---------|
-| ⚡ **Performance** | Execução super rápida | Jogos e sistemas críticos |
-| 🎛️ **Controle** | Você controla cada detalhe | Otimização máxima |
-| 🌐 **Portabilidade** | Funciona em qualquer sistema | Código versátil |
-| 💼 **Mercado** | Muitas oportunidades de trabalho | Carreira sólida |
-| 🏗️ **Estruturado** | Código organizado e reutilizável | Projetos grandes |
+| Vantagem             | Descrição                        | Impacto                   |
+| -------------------- | -------------------------------- | ------------------------- |
+| ⚡ **Performance**   | Execução super rápida            | Jogos e sistemas críticos |
+| 🎛️ **Controle**      | Você controla cada detalhe       | Otimização máxima         |
+| 🌐 **Portabilidade** | Funciona em qualquer sistema     | Código versátil           |
+| 💼 **Mercado**       | Muitas oportunidades de trabalho | Carreira sólida           |
+| 🏗️ **Estruturado**   | Código organizado e reutilizável | Projetos grandes          |
 
 ### 🏢 Empresas que Usam C++
 
 #### 💻 **Tecnologia**
+
 - **Google** - Chrome, Android
 - **Microsoft** - Windows, Office
 - **Apple** - macOS, iOS
@@ -56,73 +62,59 @@ C++ é uma linguagem **híbrida** que combina:
 - **Mozilla** - Firefox
 
 #### 🎮 **Games**
+
 - **Epic Games** - Unreal Engine
 - **Valve** - Steam, jogos Source
 - **Blizzard** - World of Warcraft
 - **Electronic Arts** - FIFA, Battlefield
 
 #### 🏦 **Financeiro**
+
 - **Bloomberg** - Sistemas de trading
 - **Goldman Sachs** - Plataformas financeiras
 - **JPMorgan** - Sistemas bancários
 
 ### 🎮 Jogos Famosos Feitos em C++
 
-| Jogo | Estúdio | Engine |
-|------|---------|---------|
-| **Fortnite** | Epic Games | Unreal Engine |
-| **Call of Duty** | Activision | Engine própria |
-| **World of Warcraft** | Blizzard | Engine própria |
-| **Counter-Strike** | Valve | Source Engine |
-| **Overwatch** | Blizzard | Engine própria |
-| **Assassin's Creed** | Ubisoft | AnvilNext |
+| Jogo                  | Estúdio    | Engine         |
+| --------------------- | ---------- | -------------- |
+| **Fortnite**          | Epic Games | Unreal Engine  |
+| **Call of Duty**      | Activision | Engine própria |
+| **World of Warcraft** | Blizzard   | Engine própria |
+| **Counter-Strike**    | Valve      | Source Engine  |
+| **Overwatch**         | Blizzard   | Engine própria |
+| **Assassin's Creed**  | Ubisoft    | AnvilNext      |
 
 ### 🌟 Áreas de Aplicação
 
-| Área | Exemplos | Por que C++? |
-|------|----------|--------------|
-| 🎮 **Jogos** | Unreal Engine, jogos AAA | Performance em tempo real |
-| 🖥️ **Sistemas** | Windows, Linux, macOS | Controle de hardware |
-| 📱 **Apps Desktop** | Photoshop, Discord | Interface responsiva |
-| 🏦 **Finanças** | Trading, bancos | Cálculos rápidos |
-| 🤖 **Robótica** | Automação industrial | Controle preciso |
-| 🚗 **Automotivo** | Sistemas embarcados | Confiabilidade |
+| Área                | Exemplos                 | Por que C++?              |
+| ------------------- | ------------------------ | ------------------------- |
+| 🎮 **Jogos**        | Unreal Engine, jogos AAA | Performance em tempo real |
+| 🖥️ **Sistemas**     | Windows, Linux, macOS    | Controle de hardware      |
+| 📱 **Apps Desktop** | Photoshop, Discord       | Interface responsiva      |
+| 🏦 **Finanças**     | Trading, bancos          | Cálculos rápidos          |
+| 🤖 **Robótica**     | Automação industrial     | Controle preciso          |
+| 🚗 **Automotivo**   | Sistemas embarcados      | Confiabilidade            |
 
 ---
 
-## 🛠️ Capítulo 3: Configurando Seu Ambiente
+## 🛠️ Configurando Seu Ambiente
 
 ### 💻 Dev C++ - Sua Primeira IDE
 
 **IDE** = Ambiente de Desenvolvimento Integrado (como um Word para programação)
 
 #### 🌟 **Características do Dev C++:**
+
 - ✅ **Gratuito** e simples
 - ✅ **Compilador** integrado
 - ✅ **Cores no código** (syntax highlighting)
 - ✅ **Perfeito** para iniciantes
 - ✅ **Leve** e rápido
 
-### 📥 Instalação Passo a Passo
-
-1. **🌐 Baixar:** Dev C++ 5.11 (site oficial)
-2. **📦 Instalar:** Usar configurações padrão
-3. **📁 Organizar:** Criar pasta `C:\ProjetosC++`
-4. **🧪 Testar:** Criar primeiro programa
-
-### 🔧 Configuração Inicial
-
-```
-📁 C:\ProjetosC++\
-  ├── 📁 Aula01_Basico\
-  ├── 📁 Aula02_Variaveis\
-  ├── 📁 Aula03_Operadores\
-  └── 📁 Projetos\
-```
-
 ---
 
-## 🎯 Capítulo 4: Seu Primeiro Programa
+## 🎯 Seu Primeiro Programa
 
 ### 👋 O Famoso "Olá, Mundo!"
 
@@ -149,14 +141,14 @@ int main() {         // 🚪 Função principal - onde tudo começa
 
 ### 💡 Entendendo Cada Parte
 
-| Código | O que faz | Analogia |
-|--------|-----------|----------|
-| `#include <iostream>` | Importa ferramentas de entrada/saída | 🧰 Como pegar uma caixa de ferramentas |
-| `using namespace std;` | Facilita a escrita | 🏷️ Como usar apelidos em vez de nomes completos |
-| `int main()` | Função principal | 🚪 A porta de entrada da sua casa |
-| `cout <<` | Imprime na tela | 📢 Como falar com o usuário |
-| `endl` | Quebra linha | ⏎ Como apertar Enter |
-| `return 0;` | Finaliza programa | ✅ Como dizer "terminei com sucesso" |
+| Código                 | O que faz                            | Analogia                                        |
+| ---------------------- | ------------------------------------ | ----------------------------------------------- |
+| `#include <iostream>`  | Importa ferramentas de entrada/saída | 🧰 Como pegar uma caixa de ferramentas          |
+| `using namespace std;` | Facilita a escrita                   | 🏷️ Como usar apelidos em vez de nomes completos |
+| `int main()`           | Função principal                     | 🚪 A porta de entrada da sua casa               |
+| `cout <<`              | Imprime na tela                      | 📢 Como falar com o usuário                     |
+| `endl`                 | Quebra linha                         | ⏎ Como apertar Enter                            |
+| `return 0;`            | Finaliza programa                    | ✅ Como dizer "terminei com sucesso"            |
 
 ### 🚀 Exemplo Personalizado
 
@@ -178,13 +170,14 @@ int main() {
 
 ---
 
-## 📝 Capítulo 5: Variáveis e Tipos de Dados
+## 📝 Variáveis e Tipos de Dados
 
 ### 🎯 O que são Variáveis?
 
 Variáveis são como **caixas etiquetadas** onde guardamos informações na memória do computador.
 
 #### 🏠 **Analogia da Casa:**
+
 - 🗄️ **Armário de roupas** (string) → guarda nomes
 - 🔢 **Gaveta de documentos** (int) → guarda números
 - 💍 **Porta-joias** (char) → guarda caracteres únicos
@@ -194,39 +187,47 @@ Variáveis são como **caixas etiquetadas** onde guardamos informações na mem�
 #### 1. 🔢 Tipos Inteiros
 
 ##### `int` - Inteiros Padrão
+
 ```cpp
 int idade = 25;           // Idade de uma pessoa
 int temperatura = -10;    // Temperatura em graus
 int pontuacao = 1500;     // Pontuação em um jogo
 ```
+
 - **💡 Uso:** Idades, contadores, pontuações
 - **📏 Faixa:** -2,147,483,648 a 2,147,483,647
 - **💾 Memória:** 4 bytes
 
 ##### `short` - Inteiros Pequenos
+
 ```cpp
 short ano = 2024;         // Ano atual
 short mes = 12;           // Mês do ano
 short dia = 25;           // Dia do mês
 ```
+
 - **💡 Uso:** Valores pequenos, economizar memória
 - **📏 Faixa:** -32,768 a 32,767
 - **💾 Memória:** 2 bytes
 
 ##### `long` - Inteiros Grandes
+
 ```cpp
 long populacao = 215000000L;    // População do Brasil
 long distancia = 150000000L;    // Distância em metros
 ```
+
 - **💡 Uso:** Valores muito grandes
 - **📏 Faixa:** -2,147,483,648 a 2,147,483,647 (mínimo)
 - **💾 Memória:** 4 ou 8 bytes (depende do sistema)
 
 ##### `long long` - Inteiros Enormes
+
 ```cpp
 long long estrelas = 400000000000LL;  // Estrelas na galáxia
 long long bytes = 1099511627776LL;    // 1 TB em bytes
 ```
+
 - **💡 Uso:** Valores astronômicos, big data
 - **📏 Faixa:** -9,223,372,036,854,775,808 a 9,223,372,036,854,775,807
 - **💾 Memória:** 8 bytes
@@ -234,30 +235,36 @@ long long bytes = 1099511627776LL;    // 1 TB em bytes
 #### 2. 🔢 Tipos Decimais
 
 ##### `float` - Precisão Simples
+
 ```cpp
 float altura = 1.75f;     // Altura em metros
 float peso = 68.5f;       // Peso em kg
 float preco = 29.99f;     // Preço de produto
 ```
+
 - **💡 Uso:** Medidas, preços, cálculos básicos
 - **📏 Precisão:** ~7 dígitos decimais
 - **💾 Memória:** 4 bytes
 
 ##### `double` - Precisão Dupla
+
 ```cpp
 double pi = 3.14159265359;        // Valor de PI
 double saldoBanco = 12345.67;     // Saldo bancário
 double coordenada = -23.5505;     // Latitude/longitude
 ```
+
 - **💡 Uso:** Cálculos científicos, coordenadas GPS
 - **📏 Precisão:** ~15-17 dígitos decimais
 - **💾 Memória:** 8 bytes
 
 ##### `long double` - Precisão Estendida
+
 ```cpp
 long double precisao = 3.14159265358979323846L;
 long double calculo = 0.123456789012345678L;
 ```
+
 - **💡 Uso:** Cálculos de alta precisão
 - **📏 Precisão:** ~18-19 dígitos decimais
 - **💾 Memória:** 8, 12 ou 16 bytes (depende do sistema)
@@ -265,20 +272,24 @@ long double calculo = 0.123456789012345678L;
 #### 3. 🔤 Tipos de Caracteres
 
 ##### `char` - Caractere Único
+
 ```cpp
 char inicial = 'J';       // Inicial do nome
 char nota = 'A';          // Nota escolar
 char simbolo = '@';       // Símbolo especial
 ```
+
 - **💡 Uso:** Letras, símbolos, códigos ASCII
 - **📏 Formato:** Sempre entre aspas simples `'`
 - **💾 Memória:** 1 byte
 
 ##### `wchar_t` - Caractere Wide
+
 ```cpp
 wchar_t unicode = L'ñ';   // Caractere com acento
 wchar_t emoji = L'😊';    // Emoji (em alguns sistemas)
 ```
+
 - **💡 Uso:** Caracteres especiais, internacionalização
 - **📏 Formato:** Prefixo `L` e aspas simples
 - **💾 Memória:** 2 ou 4 bytes
@@ -286,11 +297,13 @@ wchar_t emoji = L'😊';    // Emoji (em alguns sistemas)
 #### 4. 🔴 Tipo Booleano
 
 ##### `bool` - Verdadeiro ou Falso
+
 ```cpp
 bool temIdade = true;     // Pessoa tem idade suficiente
 bool aprovado = false;    // Não foi aprovado
 bool logado = true;       // Usuário está logado
 ```
+
 - **💡 Uso:** Condições, flags, estados
 - **📏 Valores:** `true` (verdadeiro) ou `false` (falso)
 - **💾 Memória:** 1 byte
@@ -298,44 +311,49 @@ bool logado = true;       // Usuário está logado
 #### 5. 🔗 Tipos Modificadores
 
 ##### `unsigned` - Apenas Positivos
+
 ```cpp
 unsigned int idade = 25;          // Idade (nunca negativa)
 unsigned short porto = 8080;      // Número de porta
 unsigned long bytes = 4294967295; // Tamanho de arquivo
 ```
+
 - **💡 Uso:** Valores que nunca são negativos
 - **📏 Faixa:** 0 a valores positivos dobrados
 - **💾 Memória:** Mesmo tamanho do tipo base
 
 ##### `signed` - Positivos e Negativos (Padrão)
+
 ```cpp
 signed int temperatura = -15;     // Temperatura pode ser negativa
 signed char letra = 'A';          // Caractere com sinal
 ```
+
 - **💡 Uso:** Valores que podem ser negativos
 - **📏 Faixa:** Inclui números negativos
 - **💾 Memória:** Mesmo tamanho do tipo base
 
 #### 6. 📏 Tabela Resumo dos Tipos
 
-| Tipo | Tamanho | Faixa | Uso Principal |
-|------|---------|-------|---------------|
-| `char` | 1 byte | -128 a 127 | Caracteres |
-| `unsigned char` | 1 byte | 0 a 255 | Bytes, valores pequenos |
-| `short` | 2 bytes | -32,768 a 32,767 | Números pequenos |
-| `unsigned short` | 2 bytes | 0 a 65,535 | Valores pequenos positivos |
-| `int` | 4 bytes | -2,147,483,648 a 2,147,483,647 | Números gerais |
-| `unsigned int` | 4 bytes | 0 a 4,294,967,295 | Contadores, IDs |
-| `long` | 4-8 bytes | Varia por sistema | Números grandes |
-| `long long` | 8 bytes | ±9,223,372,036,854,775,807 | Números enormes |
-| `float` | 4 bytes | ±3.4 × 10^38 (7 dígitos) | Decimais básicos |
-| `double` | 8 bytes | ±1.7 × 10^308 (15 dígitos) | Decimais precisos |
-| `long double` | 8-16 bytes | Varia por sistema | Máxima precisão |
-| `bool` | 1 byte | `true` ou `false` | Condições |
+| Tipo             | Tamanho    | Faixa                          | Uso Principal              |
+| ---------------- | ---------- | ------------------------------ | -------------------------- |
+| `char`           | 1 byte     | -128 a 127                     | Caracteres                 |
+| `unsigned char`  | 1 byte     | 0 a 255                        | Bytes, valores pequenos    |
+| `short`          | 2 bytes    | -32,768 a 32,767               | Números pequenos           |
+| `unsigned short` | 2 bytes    | 0 a 65,535                     | Valores pequenos positivos |
+| `int`            | 4 bytes    | -2,147,483,648 a 2,147,483,647 | Números gerais             |
+| `unsigned int`   | 4 bytes    | 0 a 4,294,967,295              | Contadores, IDs            |
+| `long`           | 4-8 bytes  | Varia por sistema              | Números grandes            |
+| `long long`      | 8 bytes    | ±9,223,372,036,854,775,807     | Números enormes            |
+| `float`          | 4 bytes    | ±3.4 × 10^38 (7 dígitos)       | Decimais básicos           |
+| `double`         | 8 bytes    | ±1.7 × 10^308 (15 dígitos)     | Decimais precisos          |
+| `long double`    | 8-16 bytes | Varia por sistema              | Máxima precisão            |
+| `bool`           | 1 byte     | `true` ou `false`              | Condições                  |
 
 #### 7. 🎯 Quando Usar Cada Tipo
 
 ##### 🔢 **Para Números Inteiros:**
+
 ```cpp
 // Pequenos (até 32,767)
 short quantidadeItens = 150;
@@ -351,6 +369,7 @@ unsigned int idUsuario = 12345;
 ```
 
 ##### 🔢 **Para Números Decimais:**
+
 ```cpp
 // Precisão básica (7 dígitos)
 float notaProva = 8.75f;
@@ -363,6 +382,7 @@ long double constanteFisica = 2.71828182845904523536L;
 ```
 
 ##### 🔤 **Para Caracteres:**
+
 ```cpp
 // Caractere simples
 char letraMenu = 'A';
@@ -372,6 +392,7 @@ wchar_t caractereEspecial = L'ç';
 ```
 
 ##### 🔴 **Para Condições:**
+
 ```cpp
 // Estados verdadeiro/falso
 bool sistemaLigado = true;
@@ -381,6 +402,7 @@ bool temPermissao = false;
 ### 🏗️ Declaração vs Inicialização
 
 #### 📦 Declaração (Criar a Caixa)
+
 ```cpp
 int numero;        // ⚠️ Cria a caixa, mas vazia
 float preco;       // ⚠️ Valor indefinido (perigoso!)
@@ -388,6 +410,7 @@ char letra;        // ⚠️ Conteúdo imprevisível
 ```
 
 #### 🎁 Inicialização (Colocar Valor na Caixa)
+
 ```cpp
 int idade = 20;           // ✅ Cria e já coloca valor
 float altura = 1.80f;     // ✅ Boa prática!
@@ -397,11 +420,13 @@ char inicial = 'M';       // ✅ Valor definido
 ### 📏 Regras para Nomes de Variáveis
 
 #### ✅ **Permitido:**
+
 - Letras (a-z, A-Z)
 - Números (0-9) - **mas não no início**
-- Underscore (_)
+- Underscore (\_)
 
 #### ❌ **Não Permitido:**
+
 - Espaços em branco
 - Caracteres especiais (@, #, %, etc.)
 - Palavras reservadas (int, main, if, etc.)
@@ -477,7 +502,7 @@ int main() {
     cout << "╔═══════════════════════════════════╗" << endl;
     cout << "║        CADASTRO PESSOAL           ║" << endl;
     cout << "╚═══════════════════════════════════╝" << endl;
-    
+
     cout << "Digite sua idade: ";
     cin >> idade;
 
@@ -573,7 +598,7 @@ int main() {
     cout << "╔═══════════════════════════════════╗" << endl;
     cout << "║      CALCULADORA DE ÁREA          ║" << endl;
     cout << "╚═══════════════════════════════════╝" << endl;
-    
+
     cout << "Digite o comprimento do retângulo: ";
     cin >> comprimento;
 
@@ -610,7 +635,7 @@ int main() {
     cout << "╔═══════════════════════════════════╗" << endl;
     cout << "║     CONVERSOR DE TEMPERATURA      ║" << endl;
     cout << "╚═══════════════════════════════════╝" << endl;
-    
+
     cout << "Digite a temperatura em Celsius: ";
     cin >> celsius;
 
@@ -651,7 +676,7 @@ int main() {
     cout << "╔═══════════════════════════════════╗" << endl;
     cout << "║        SISTEMA DE LOJA            ║" << endl;
     cout << "╚═══════════════════════════════════╝" << endl;
-    
+
     cout << "Código do produto: ";
     cin >> codigoProduto;
 
@@ -674,7 +699,7 @@ int main() {
 
     // 🧮 Cálculos
     valorTotal = preco * quantidade;
-    
+
     if (temDesconto) {
         valorTotal = valorTotal * (1 - percentualDesconto / 100);
     }
@@ -808,6 +833,7 @@ int inteiro = (int)3.7;  // Conversão explícita
 ### 📝 Boas Práticas
 
 #### 🌟 **Essenciais:**
+
 - ✅ **Sempre inicialize** suas variáveis
 - ✅ Use **nomes descritivos** (`idade` em vez de `i`)
 - ✅ Mantenha **organização** no código
@@ -815,6 +841,7 @@ int inteiro = (int)3.7;  // Conversão explícita
 - ✅ Use **comentários** para explicar partes complexas
 
 #### 🎨 **Estilo de Código:**
+
 ```cpp
 // ✅ Bom estilo
 int idadeUsuario = 25;        // Nome descritivo
@@ -840,6 +867,7 @@ char c = 'J';                 // Genérico
 ### 🎯 Dicas para Estudar
 
 #### 📚 **Metodologia:**
+
 - 📖 **Leia** o código antes de executar
 - 🤔 **Pense** no que vai acontecer
 - ▶️ **Execute** e compare com sua expectativa
@@ -847,6 +875,7 @@ char c = 'J';                 // Genérico
 - 🧪 **Experimente** criar variações
 
 #### 🏃‍♂️ **Prática:**
+
 - 💻 **Pratique diariamente** - mesmo que 30 minutos
 - 🔄 **Repita** os exemplos até ficarem naturais
 - 🎯 **Crie** suas próprias variações
@@ -859,12 +888,14 @@ char c = 'J';                 // Genérico
 ### 📋 **O que Aprendemos:**
 
 #### 🏗️ **Fundamentos:**
+
 - ✅ O que é programação
 - ✅ Por que usar C++
 - ✅ Como configurar o Dev C++
 - ✅ Estrutura básica de um programa
 
 #### 💻 **Prática:**
+
 - ✅ Nosso primeiro "Olá, Mundo!"
 - ✅ O que são variáveis
 - ✅ Tipos de dados (int, float, char)
@@ -872,12 +903,14 @@ char c = 'J';                 // Genérico
 - ✅ Entrada e saída de dados
 
 #### 🎯 **Exemplos:**
+
 - ✅ Cadastro pessoal
 - ✅ Calculadora de área
 - ✅ Conversor de temperatura
 
 ### 🚀 **Próximos Passos:**
-1. **Operadores** matemáticos (+, -, *, /)
+
+1. **Operadores** matemáticos (+, -, \*, /)
 2. **Estruturas condicionais** (if, else)
 3. **Loops** (for, while)
 4. **Arrays** e vetores
@@ -889,6 +922,6 @@ char c = 'J';                 // Genérico
 
 > **💻 Pratique sempre!** A programação se aprende fazendo. Cada linha de código é um passo em direção ao domínio da linguagem. Não tenha medo de errar - os erros são seus melhores professores! 🚀
 
-**Lembre-se:** Todos os grandes programadores começaram exatamente onde você está agora. O importante é persistir e praticar consistentemente. 
+**Lembre-se:** Todos os grandes programadores começaram exatamente onde você está agora. O importante é persistir e praticar consistentemente.
 
 **Bons estudos!** 🎯✨
