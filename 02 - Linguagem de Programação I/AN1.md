@@ -6,9 +6,9 @@
 - Cada dupla deve criar uma documentação para cada solução/algoritmo (exercício resolvido).
 - Para cada solução deve ser adicionado comentários do que cada linha faz e ao final uma descrição geral do que o algoritmo resolve.
 - A documentação deve ser entregue em um documento Word até o dia 28 de julho de 2025.
+- **Não utilize ferramentas de IA** (caso seja verificado o uso, poderá resultar em uma pontuação zerada.)
 
 **Exemplo de como a documentação deve ser efetuada:**
-**Solução:**
 
 ```cpp
 #include <iostream> // biblioteca para entrada e saída de dados
@@ -44,7 +44,6 @@ int main() { // função principal do programa
 }
 ```
 
-**Descrição para a solução**
 **O que o código faz?**
 
 - Pede ao usuário para digitar 4 números
